@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+130
+'PAY POINT SOFT V 1.0
+
+Maker: Santiago de la vega 
+
+
+This program can calculate the price of 4 products plus IVA'
+
+4
+1
+102
+'Enter value of first product'
+5
+1
+15
+first_product
+4
+1
+69
+'Enter value of second product'
+5
+1
+16
+v_second_product
+4
+1
+68
+'Enter value of third product'
+5
+1
+15
+v_third_product
+4
+1
+69
+'Enter value of fourth product'
+5
+1
+16
+v_fourth_product
+7
+0
+1
+67
+first_product+v_second_product+v_third_product+v_fourth_product<0
+4
+1
+77
+'ERROR THE VALUES ENTERED ARE INCORRECT'
+13
+6
+2
+5
+total
+71
+first_product + v_second_product + v_third_product + v_fourth_product
+4
+ IVA
+12
+total * 1.19
+13
+1

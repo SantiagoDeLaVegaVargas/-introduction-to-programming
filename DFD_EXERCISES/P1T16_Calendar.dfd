@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+119
+' MONTH DAYS CALCULATOR SOFT V1.0 MAKER Santiago De La Vega This program helps for calculate many days have a month  ' 
+4
+1
+28
+'Enter number of the month' 
+5
+1
+7
+v_mouth
+7
+0
+1
+28
+v_mouth = 2 OR v_mouth = 02 
+7
+0
+1
+105
+v_mouth = 4 OR v_mouth = 04 OR v_mouth = 6 OR v_mouth = 06 OR v_mouth = 9 OR v_mouth = 09 OR v_mouth = 11
+7
+0
+1
+185
+v_mouth = 1 OR v_mouth = 01 OR v_mouth = 3 OR v_mouth = 03 OR v_mouth = 5 OR v_mouth = 05 OR v_mouth = 7 OR v_mouth = 07 OR v_mouth = 8 OR v_mouth = 08 OR v_mouth = 10 OR v_mouth = 12  
+4
+1
+38
+'ERROR the entered vaule is incorrect'
+13
+4
+1
+25
+'the month have 31 days' 
+13
+13
+4
+1
+25
+'the month have 30 days' 
+13
+13
+4
+1
+25
+'the month have 28 days' 
+13
+1

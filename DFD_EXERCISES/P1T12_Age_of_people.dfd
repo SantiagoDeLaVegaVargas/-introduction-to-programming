@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+'AGE CALCULATOR SOFT V1.0 MAKER Santiago de la vega  
+
+this program determines where you are in your life'
+4
+1
+16
+'Entre you age '
+5
+1
+5
+v_age
+7
+0
+1
+8
+v_age<=0
+7
+0
+1
+8
+v_age<=6
+7
+0
+1
+9
+v_age<=18
+7
+0
+1
+9
+v_age<=45
+7
+0
+1
+9
+v_age<=90
+7
+0
+1
+8
+v_age>90
+13
+4
+1
+19
+'You are matusalen'
+13
+13
+4
+1
+22
+'You are older adult '
+13
+13
+4
+1
+16
+'You are adult '
+13
+13
+4
+1
+23
+'You are a adolescent '
+13
+13
+4
+1
+18
+'You are a child '
+13
+13
+4
+1
+26
+'You were not born master'
+13
+1

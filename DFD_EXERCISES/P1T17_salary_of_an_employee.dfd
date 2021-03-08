@@ -1,0 +1,32 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+145
+TOTAL SALARY CALCULATOR SOFT v1.0 
+Maker SANTIAGO DE LA VEGA VARGAS 
+This program calculate the final salary, if you know many days you worked'
+
+4
+1
+51
+'Enter the amount of money you get paid in one day'
+5
+1
+16
+v_salary_per_day
+4
+1
+37
+'Enter the number of days you worked'
+5
+1
+14
+v_days_of_work
+4
+0
+1

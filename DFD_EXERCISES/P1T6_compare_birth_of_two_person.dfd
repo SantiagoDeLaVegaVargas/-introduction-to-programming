@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+155
+'HAPPY BIRTHDAY DIFERENCE SOFT V1.0
+Maker SANTIAGO DE LA VEGA 
+This software is for determinate which between two persons is older than the other person'
+
+4
+1
+31
+'Enter the age of the person A'
+5
+1
+4
+v_1 
+4
+1
+31
+'Enter the age of the person B'
+5
+1
+4
+v_2 
+7
+1
+1
+9
+v_1 > v_2
+4
+1
+18
+'A is more older' 
+13
+4
+1
+18
+'B is more older' 
+13
+1

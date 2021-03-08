@@ -1,0 +1,111 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+130
+'DAY GENERATOR SOFT 1.0V MAKER: Santiago De La Vega with this program we can determine the day of the week by entering the number'
+4
+1
+42
+'Enter the number of the day of the week '
+5
+1
+12
+V_number_day
+7
+0
+1
+37
+V_number_day < 1 AND V_number_day > 7
+7
+0
+1
+16
+V_number_day = 1
+7
+0
+1
+16
+V_number_day = 2
+7
+0
+1
+16
+V_number_day = 3
+7
+0
+1
+16
+V_number_day = 4
+7
+0
+1
+16
+V_number_day = 5
+7
+0
+1
+16
+V_number_day = 6
+7
+0
+1
+16
+V_number_day = 7
+4
+1
+38
+'ERROR The entered value is incorrect'
+13
+4
+1
+20
+'Today is Sunday =D'
+13
+13
+4
+1
+22
+'Today is Saturday =D'
+13
+13
+4
+1
+20
+'Today is Friday =D'
+13
+13
+4
+1
+22
+'Today is Thursday =D'
+13
+13
+4
+1
+23
+'Today is Wednesday =D'
+13
+13
+4
+1
+21
+'Today is Tuesday =D'
+13
+13
+4
+1
+20
+'Today is Monday =D'
+13
+13
+4
+1
+38
+'ERROR The entered value is incorrect'
+13
+1
