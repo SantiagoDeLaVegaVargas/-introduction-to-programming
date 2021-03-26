@@ -1,0 +1,151 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+'AGE CALCULATOR SOFT V1.1 MAKER Santiago de la vega
+this program determines where you are in your life'
+
+4
+1
+25
+'Enter number of persons'
+6
+3
+12
+v_childrens 
+1
+0
+10
+v_youngers
+1
+0
+9
+v_adults 
+1
+0
+6
+2
+9
+v_olders 
+1
+0
+11
+v_matusalen
+1
+0
+5
+1
+15
+v_total_persons
+7
+0
+1
+20
+v_total_persons <= 0
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_persons
+1
+1
+1
+4
+1
+15
+'Enter the age'
+5
+1
+5
+v_age
+7
+0
+1
+10
+v_age <= 0
+7
+0
+1
+9
+v_age < 6
+7
+0
+1
+10
+v_age < 18
+7
+0
+1
+10
+v_age < 45
+7
+0
+1
+10
+v_age < 90
+6
+1
+12
+v_matusalen 
+14
+v_matusalen +1
+13
+6
+1
+9
+v_olders 
+12
+v_olders  +1
+13
+13
+6
+1
+9
+v_adults 
+11
+v_adults +1
+13
+13
+6
+1
+11
+v_youngers 
+13
+v_youngers +1
+13
+13
+6
+1
+12
+v_childrens 
+15
+v_childrens + 1
+13
+13
+4
+1
+39
+'ERROR THE VALUE INGRESED IS INCORRECT'
+13
+10
+4
+1
+133
+'Childrens ' , v_childrens , ' Youngers ' , v_youngers , ' Adults ' , v_adults , ' Seniors ' , v_olders , ' Matusalen ' ,v_matusalen 
+13
+4
+1
+39
+'ERROR THE VALUE INGRESED IS INCORRECT'
+13
+1
